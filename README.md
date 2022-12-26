@@ -1,4 +1,4 @@
-### olá, sou Damiana Ernesto👋😊
+### Olá, Sou Damiana Ernesto👋😊
 
 <!--
 **Naianeernesto/Naianeernesto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
